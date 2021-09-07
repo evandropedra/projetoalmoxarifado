@@ -1,2 +1,2 @@
-# https://evandropedra.github.io/projetoalmoxarifado/
+# https://github.com/evandropedra/projetoalmoxarifado
 projetoalmoxarifado
